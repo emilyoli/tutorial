@@ -46,7 +46,7 @@ Como puedes ver, Python es una gran calculadora. Si te estás preguntando qué m
     'Ola'
     
 
-¡Has creado tu primer string! Es una secuencia de caracteres que puede ser procesada por una computadora. El string (o en español, cadena) debe comenzar y terminar con el mismo carácter. Esto puede ser comillas simples (`'`) o dobles (`"`) - ellas le dicen a Python que lo que esta dentro es una cadena.
+¡Has creado tu primer string! Es una secuencia de caracteres que puede ser procesada por una computadora. El string (o en español, cadena) debe comenzar y terminar con el mismo caracter. Esto puede ser comillas simples (`'`) o dobles (`"`) - ellas le dicen a Python que lo que esta dentro es una cadena.
 
 Las cadenas pueden ser concatenadas. Prueba esto:
 
@@ -60,7 +60,7 @@ También puedes multiplicar las cadenas con un número:
     'OlaOlaOla'
     
 
-Si necesitas poner un apóstrofe dentro de tu cadena, tienes dos maneras de hacerlo.
+Si necesitas poner un apóstrofo dentro de tu cadena, tienes dos maneras de hacerlo.
 
 Usando comillas dobles:
 
@@ -68,7 +68,7 @@ Usando comillas dobles:
     "Runnin' down the hill"
     
 
-o escapando el apóstrofe con una barra invertida (`\`):
+o escapando el apóstrofo con una barra invertida (`\`):
 
     >>> 'Runnin\' down the hill'
     "Runnin' down the hill"
